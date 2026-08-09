@@ -25,4 +25,4 @@ All data is stored locally on your device only.
 You can delete all data by uninstalling the app.
 
 ## Contact
-For questions contact: [your email here]
+For questions contact: adhamehab777.osman@gmail.com
