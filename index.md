@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="cZHZio8pTq7vd5-WGiN3Psp-Ejh_F9It-BVtth_FzRU" />
 # MailWatch Privacy Policy
 
 **Last updated:** August 2026
