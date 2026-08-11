@@ -1,9 +1,9 @@
-# MailWatcher Privacy Policy
+# MailWatch Privacy Policy
 
 **Last updated:** August 2026
 
 ## What data we access
-MailWatcher requests access to your Gmail account to scan emails 
+MailWatch requests access to your Gmail account to scan emails 
 from senders you specify. We access email headers (sender, subject) 
 and email body previews solely to match your tracked sources and 
 send you notifications.
